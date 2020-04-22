@@ -23,7 +23,10 @@ fields:
   default: ''
   config:
     required: false
-    options: []
+    options:
+    - Jekyll
+    - Forestry
+    - Images
     source:
       type: simple
       section: 
