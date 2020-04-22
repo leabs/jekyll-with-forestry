@@ -30,3 +30,5 @@ fields:
       file: 
       path: 
   label: categories
+pages:
+- _posts/testing-new-post-from-forestry.md
