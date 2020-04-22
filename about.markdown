@@ -1,18 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can even edit PAGES with forestry. This is a cool tool for a smallish business to have the ability to update website content without needing to bug a developer. Plus they won't break their wordpress site by installing a bunch of crappy plugins :)
