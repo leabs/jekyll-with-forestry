@@ -14,3 +14,12 @@ fields:
 - type: text
   name: categories
   label: categories
+- name: dates
+  type: datetime
+  label: Dates
+  description: Date picker
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
