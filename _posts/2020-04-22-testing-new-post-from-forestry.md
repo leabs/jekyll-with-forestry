@@ -2,7 +2,7 @@
 layout: post
 title: Testing new post from forestry!
 date: 2020-04-21 04:00:00 +0000
-categories: ''
+categories: Jekyll
 
 ---
 This is a new post from [forestry.io](https://forestry.io "forestry.io"). Here is some te
